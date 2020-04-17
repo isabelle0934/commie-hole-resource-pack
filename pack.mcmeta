@@ -1,0 +1,13 @@
+{
+   "pack": {
+      "pack_format": 5,
+      "description": ["", {"text": "Created by Commie Hole:\n"}, {"text": "https://discord.gg/qD9M7Mn", "color": "blue"}]
+   },
+   "language": {
+      "commie": {
+         "name": "Commie Speak",
+         "region": "The Commie Hole Discord Server",
+         "bidirectional": false
+      }
+   }
+}
