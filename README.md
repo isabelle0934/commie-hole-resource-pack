@@ -13,7 +13,18 @@ The first step to installing this pack is cloning it into your resourcepacks dir
 2. Navigate into the `.minecraft` subdirectory.
 3. Navigate into the `resourcepacks` subdirectory, this is the resourcepacks directory we were looking for.
 #### Linux:
-> **TBA**
+
+##### From Terminal:
+
+1. Simply type `cd ~/.minecraft/resourcepacks`
+
+##### From File Manager:
+
+1. Head to your `root` directory.
+2. Enter your `home` directory.
+3. Ensure you have your file manager's `Show hidden files` option enabled. (For most file managers, the keyboard shortcut `Ctrl+H` should toggle them.)
+4. Once you have ensured you can see hidden files, enter the `.minecraft` folder, and then the `resourcepacks` folder.
+
 #### Mac:
 > **TBA**
 
