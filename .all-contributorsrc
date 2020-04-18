@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "celldrom",
+      "name": "celldrom",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/61444637?v=4",
+      "profile": "https://github.com/celldrom",
+      "contributions": [
+        "content",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "commie-hole-resource-pack",
+  "projectOwner": "CHATALOT1",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
