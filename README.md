@@ -15,8 +15,11 @@ The first step to installing this pack is cloning it into your resourcepacks dir
 1. Type `%appdata%` into your search bar and press enter, this should open file explorer at the location `C:\Users\[YOUR USERNAME]\AppData\Roaming`.
 2. Navigate into the `.minecraft` subdirectory.
 3. Navigate into the `resourcepacks` subdirectory, this is the resourcepacks directory we were looking for.
+
 #### Linux:
-> **TBA**
+
+1. Simply type `cd ~/.minecraft/resourcepacks` in your terminal.
+
 #### Mac:
 > **TBA**
 
@@ -38,6 +41,7 @@ The resource pack contains some changes to the text in-game (E.g. The Crafting T
 1. Open the `Options > Language` menu within the game.
 2. Find the language entitled "Commie Speak" (The languages are listed in alphabetical order) and select it.
 3. Click Done.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
