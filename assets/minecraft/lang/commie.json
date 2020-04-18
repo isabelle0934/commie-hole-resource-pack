@@ -2,7 +2,7 @@
     "entity.minecraft.arrow": "Bullet",
     "entity.minecraft.spectral_arrow": "Spectral Bullet",
     "item.minecraft.tipped_arrow.effect.empty": "Effectless Bullet",
-    "item.minecraft.tipped_arrow.effect.water": "Arrow of Splashing",
+    "item.minecraft.tipped_arrow.effect.water": "Bullet of Splashing",
     "item.minecraft.tipped_arrow.effect.mundane": "Tipped Bullet",
     "item.minecraft.tipped_arrow.effect.thick": "Tipped Bullet",
     "item.minecraft.tipped_arrow.effect.awkward": "Tipped Bullet",
