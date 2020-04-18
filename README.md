@@ -1,6 +1,6 @@
 # commie-hole-resource-pack
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A Minecraft: Java Edition Resource pack created by the Commie Hole Discord Server: https://discord.gg/qD9M7Mn
@@ -54,6 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/celldrom"><img src="https://avatars0.githubusercontent.com/u/61444637?v=4" width="100px;" alt=""/><br /><sub><b>celldrom</b></sub></a><br /><a href="#content-celldrom" title="Content">🖋</a> <a href="#design-celldrom" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/CHATALOT1"><img src="https://avatars3.githubusercontent.com/u/41011078?v=4" width="100px;" alt=""/><br /><sub><b>Sylvia</b></sub></a><br /><a href="#maintenance-CHATALOT1" title="Maintenance">🚧</a> <a href="#projectManagement-CHATALOT1" title="Project Management">📆</a> <a href="#content-CHATALOT1" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/lunaark"><img src="https://avatars1.githubusercontent.com/u/40075495?v=4" width="100px;" alt=""/><br /><sub><b>Ashley</b></sub></a><br /><a href="#design-lunaark" title="Design">🎨</a> <a href="#content-lunaark" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/SoopaKhell"><img src="https://avatars2.githubusercontent.com/u/11081492?v=4" width="100px;" alt=""/><br /><sub><b>Carter Prince</b></sub></a><br /><a href="#design-SoopaKhell" title="Design">🎨</a> <a href="#content-SoopaKhell" title="Content">🖋</a></td>
   </tr>
 </table>
 
