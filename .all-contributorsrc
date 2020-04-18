@@ -1,0 +1,47 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "celldrom",
+      "name": "celldrom",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/61444637?v=4",
+      "profile": "https://github.com/celldrom",
+      "contributions": [
+        "content",
+        "design"
+      ]
+    },
+    {
+      "login": "CHATALOT1",
+      "name": "Sylvia",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/41011078?v=4",
+      "profile": "https://github.com/CHATALOT1",
+      "contributions": [
+        "maintenance",
+        "projectManagement",
+        "content"
+      ]
+    },
+    {
+      "login": "lunaark",
+      "name": "Ashley",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/40075495?v=4",
+      "profile": "https://github.com/lunaark",
+      "contributions": [
+        "design",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "commie-hole-resource-pack",
+  "projectOwner": "CHATALOT1",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributorsSortAlphabetically": true
+}
