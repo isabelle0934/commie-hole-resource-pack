@@ -21,7 +21,9 @@ The first step to installing this pack is cloning it into your resourcepacks dir
 1. Simply type `cd ~/.minecraft/resourcepacks` in your terminal.
 
 #### Mac:
-> **TBA**
+1. Type `~/Library/Application Support` into Spotlight and press enter, this should open Finder at the location `/Users/[YOUR USERNAME]/Library/Application Support`.
+2. Navigate into the `minecraft` subdirectory.
+3. Navigate into the `resourcepacks` subdirectory, this is the resourcepacks directory we were loocking for.
 
 ### Cloning the pack
 
